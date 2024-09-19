@@ -3,6 +3,9 @@
 ---------------------------------------------------------------------------------------------
 A simple weather API built with Node.js and Express, utilizing Redis for caching and Axios for making HTTP requests to fetch weather data.
 
+### Project URL
+[![Project Page](https://img.shields.io/badge/Project%20Page-Click%20Here-brightgreen)](https://roadmap.sh/projects/weather-api-wrapper-service)
+
 ## Table of Contents
 
 - [Features](#features)

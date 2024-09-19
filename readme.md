@@ -44,12 +44,13 @@ A simple weather API built with Node.js and Express, utilizing Redis for caching
 
 ## Environment Variables
 
-    Create a .env file in the root of your project and add the following:
-    ```bash
+Create a .env file in the root of your project and add the following:
+```bash
     API_KEY=your_visual_crossing_api_key
     REDIS_URL=redis://localhost:6379
     PORT=5000
-    ```
+```
+
 ## Usage
 
 To start the server, run:

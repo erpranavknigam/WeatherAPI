@@ -32,7 +32,7 @@ A simple weather API built with Node.js and Express, utilizing Redis for caching
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/erpranavknigam/weatherapi.git
+   git clone https://github.com/erpranavknigam/WeatherAPI.git
    cd <your-repository>
    ```
 2. Install dependencies:

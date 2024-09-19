@@ -8,6 +8,7 @@ A simple weather API built with Node.js and Express, utilizing Redis for caching
 
 ## Table of Contents
 
+- [Requirements](#requirements)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -15,6 +16,15 @@ A simple weather API built with Node.js and Express, utilizing Redis for caching
 - [Caching with Redis](#caching-with-redis)
 - [Environment Variables](#environment-variables)
 - [API Endpoints](#api-endpoints)
+
+## Requirements
+1. Redis
+2. Express-Slow-Down
+3. Nodemon
+4. Express
+5. Axios
+6. Dotenv
+7. Weather API Key From But Not Limited To ([Weather API Service](https://www.visualcrossing.com/))
 
 ## Features
 
